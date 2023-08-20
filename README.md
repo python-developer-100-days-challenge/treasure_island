@@ -6,7 +6,7 @@ This is a simple Python text-based adventure game where the player navigates thr
 # Getting Started
 Open a terminal or command prompt.\
 Navigate to the directory where the `treasure_island.py` script is located.\
-Run the script using the Python interpreter: `python treasure_island.py`\
+Run the script using the Python interpreter: python `treasure_island.py`\
 Follow the prompts to make choices and progress through the game.\
 The game will provide different outcomes based on your choices.
 
